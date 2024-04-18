@@ -33,7 +33,7 @@ npm install -g ts-node
 ### Setup the API
 
 ```bash
-npm install && npm db:setup:all
+npm install && npm run db:setup:all
 ```
 
 ## Check Lint
